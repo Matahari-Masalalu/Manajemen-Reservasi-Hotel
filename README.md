@@ -33,50 +33,54 @@ Aplikasi ini adalah sistem manajemen reservasi hotel yang memungkinkan pengguna 
 
 ## Output
 ### 1. Menampilkan pilihan
-![Cuplikan layar 2024-11-14 014434](https://github.com/user-attachments/assets/9490fb20-7415-45f7-9656-3a9e3c893e77)
+![Cuplikan layar 2024-11-14 021909](https://github.com/user-attachments/assets/b096f6c1-4495-4bfc-ace5-2149c819158b)
 
 ### 2. Menambahkan Kamar
 
 Contoh 1 :
-![Cuplikan layar 2024-11-14 014546](https://github.com/user-attachments/assets/a6102aca-330a-4c2b-82d9-f296a27a4569)
+![Cuplikan layar 2024-11-14 022012](https://github.com/user-attachments/assets/34a4ac9e-9ad2-4995-b96e-0d56995ea4bb)
 
 Contoh 2 :
-![Cuplikan layar 2024-11-14 014617](https://github.com/user-attachments/assets/338480a7-e73c-4b9e-b7f8-847bbcfd0433)
+![Cuplikan layar 2024-11-14 022036](https://github.com/user-attachments/assets/bd5301ee-2101-499a-9ec8-0f10c9f23f71)
 
 contoh 3 : 
-![Cuplikan layar 2024-11-14 014636](https://github.com/user-attachments/assets/1c3eb519-de59-48b8-90d6-a4470292f566)
+![Cuplikan layar 2024-11-14 022106](https://github.com/user-attachments/assets/a9e96c62-fe88-4d95-8e2c-1b6ad099b5fc)
+
 
 ### 3. Menampilkan Daftar Kamar Tersedia
-![Cuplikan layar 2024-11-14 014718](https://github.com/user-attachments/assets/b2cc5ab2-9b57-4e66-8d1d-da082a03c1f3)
+![Cuplikan layar 2024-11-14 022142](https://github.com/user-attachments/assets/44c6862e-efdc-4e01-b638-ba1ff8e26827)
+
 
 ### 4. Menambahkan Tamu
 
 contoh 1 :
 
-![Cuplikan layar 2024-11-14 014810](https://github.com/user-attachments/assets/a085806a-6eac-4af9-a119-717c9ef6afce)
+![Cuplikan layar 2024-11-14 022210](https://github.com/user-attachments/assets/7ecb9565-614d-4b71-bd53-7dcbb142dd15)
+
 
 contoh 2 :
 
-![Cuplikan layar 2024-11-14 014829](https://github.com/user-attachments/assets/22723642-0154-4d13-88d1-6dd5eeac37ce)
+![Cuplikan layar 2024-11-14 022246](https://github.com/user-attachments/assets/74200e4d-659f-4d17-885f-4ca557426bf6)
 
 contoh 3 :
 
-![Cuplikan layar 2024-11-14 014846](https://github.com/user-attachments/assets/441283a8-9e20-4a92-91ae-11b38b39734e)
+![Cuplikan layar 2024-11-14 022315](https://github.com/user-attachments/assets/50fa9495-1949-4f5a-9523-054b64153d69)
 
 ### 5. Menampilkan Informasi Tamu Sebelum Dibuat Reservasi
-![Cuplikan layar 2024-11-14 014944](https://github.com/user-attachments/assets/19b6f38b-5d18-4b96-9b18-740c48168175)
+![Cuplikan layar 2024-11-14 022339](https://github.com/user-attachments/assets/db9246a9-44d5-4eb7-a5f4-b22fbcf387b0)
 
 ### 6. Membuat Reservasi
-![Cuplikan layar 2024-11-14 015020](https://github.com/user-attachments/assets/56a39d3a-bbf5-4e2b-9b2b-f24b58899969)
+![Cuplikan layar 2024-11-14 022419](https://github.com/user-attachments/assets/88556618-a3d4-4183-8377-3bfd8fa44b85)
 
 ### 7. Menampilkan Informasi Tamu Setelah Dibuat Reservasi
-![Cuplikan layar 2024-11-14 015109](https://github.com/user-attachments/assets/530adb74-6614-4ca1-b483-c936a0b12d32)
+![Cuplikan layar 2024-11-14 022451](https://github.com/user-attachments/assets/8945a2f7-23d9-4db9-924e-c342ebbb8cc9)
 
 ### 8. Membatalkan Reservasi
-![Cuplikan layar 2024-11-14 015216](https://github.com/user-attachments/assets/c9379db4-3523-4b6a-8e14-a5de26013c65)
+![Cuplikan layar 2024-11-14 022511](https://github.com/user-attachments/assets/68f9d4ba-3916-4385-82d4-995e473dff4b)
 
-### 7. Menampilkan Informasi Tamu Setelah Reservasi Dibatalkan
-![Cuplikan layar 2024-11-14 015251](https://github.com/user-attachments/assets/f5c2124e-a62a-4c82-b1e0-09dc986c482e)
+### 9. Menampilkan Informasi Tamu Setelah Reservasi Dibatalkan
+![Cuplikan layar 2024-11-14 022603](https://github.com/user-attachments/assets/bf6fa734-d1e0-480b-8155-0e8497fc25d5)
+
 
 ## Kesimpulan
 Aplikasi Manajemen Reservasi Hotel ini dirancang untuk mempermudah pengelolaan reservasi hotel. Dengan fitur-fitur yang intuitif, pengguna dapat dengan mudah menambah kamar, mendaftarkan tamu, dan mengelola reservasi. Sistem ini membantu meningkatkan efisiensi operasional hotel dan memberikan pengalaman yang lebih baik bagi tamu. Dengan pengembangan lebih lanjut, aplikasi ini dapat ditingkatkan dengan fitur tambahan seperti laporan keuangan, manajemen staf, dan integrasi dengan sistem pembayaran.
