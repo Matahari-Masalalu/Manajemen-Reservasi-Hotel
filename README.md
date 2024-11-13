@@ -51,13 +51,16 @@ contoh 3 :
 
 ### 4. Menambahkan Tamu
 
-contoh 1 : 
+contoh 1 :
+
 ![Cuplikan layar 2024-11-14 014810](https://github.com/user-attachments/assets/a085806a-6eac-4af9-a119-717c9ef6afce)
 
 contoh 2 :
+
 ![Cuplikan layar 2024-11-14 014829](https://github.com/user-attachments/assets/22723642-0154-4d13-88d1-6dd5eeac37ce)
 
 contoh 3 :
+
 ![Cuplikan layar 2024-11-14 014846](https://github.com/user-attachments/assets/441283a8-9e20-4a92-91ae-11b38b39734e)
 
 ### 5. Menampilkan Informasi Tamu Sebelum Dibuat Reservasi
