@@ -1,7 +1,7 @@
 ## Nama : Faishal Anwar Hasyim
 ## NIM : 32602300021
 
-### Tugas ini dibuat untuk mengisi nilai Ulangan Tengah Semester Mata Kuliah Pemrograman Berorientasi Objek A (FBOJA)
+### Tugas ini dibuat guna mengisi nilai Ulangan Tengah Semester Mata Kuliah Pemrograman Berorientasi Objek A
 
 # Manajemen Reservasi Hotel
 
